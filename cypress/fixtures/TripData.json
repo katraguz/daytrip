@@ -1,0 +1,14 @@
+{
+  "from_destination": "Zagreb",
+  "to_destination": "Prague",
+  "booking_date": "24",
+
+  "email": "test@testmail.com",
+
+  "first_name": "Katarina",
+  "last_name": "Raguz",
+  "birth_day": "18",
+  "birth_year": "1996", 
+  "country_code": "+385",
+  "phone_number": "080123456"
+}
